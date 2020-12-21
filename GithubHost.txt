@@ -3,4 +3,10 @@
 199.232.68.133 avatars1.githubusercontent.com # 头像域名-1
 199.232.68.133 avatars2.githubusercontent.com # 头像域名-2
 199.232.68.133 avatars3.githubusercontent.com # 头像域名-3
+199.232.68.133 avatars4.githubusercontent.com # 头像域名-4
+199.232.68.133 avatars5.githubusercontent.com # 头像域名-5
+199.232.68.133 avatars6.githubusercontent.com # 头像域名-6
+199.232.68.133 avatars7.githubusercontent.com # 头像域名-7
+199.232.68.133 avatars8.githubusercontent.com # 头像域名-8
 13.250.177.223 github.com # 主域名
+# https://github.com/YueZhiNai/GithubHost
