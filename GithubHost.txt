@@ -1,4 +1,5 @@
 199.232.68.133 raw.githubusercontent.com # 资源域名
+199.232.68.133 avatars0.githubusercontent.com # 头像域名-0
 199.232.68.133 avatars1.githubusercontent.com # 头像域名-1
 199.232.68.133 avatars2.githubusercontent.com # 头像域名-2
 199.232.68.133 avatars3.githubusercontent.com # 头像域名-3
